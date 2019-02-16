@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding ="utf-8" standalone="yes"?>
+<!-- eternity persistence framework   -->
+<!-- Nicola Santi - www.winghands.it  -->
+<archive version="4.0" sub="beta1">
+<!-- ST Plotter R5 archive file-->
+<version>1.0.2</version>
+<model>
+	<groups count="1">
+		<group count="3" name="Signals">
+			<node count="8">
+				<content name="pr::PD_ODR" type="var">
+					<definition id="1" size="8" type="1" var="pr::PD_ODR"></definition>
+					<properties alpha="255" b="0" formatType="10" g="255" height="25" r="0" showMode="1"></properties>
+				</content>
+				<node count="0">
+					<content name="pr::PD_ODR[0]" type="varBit">
+						<definition bit_index="0" id="1" size="8" var="pr::PD_ODR"></definition>
+						<properties alpha="255" b="0" formatType="10" g="255" height="25" r="0" showMode="0"></properties>
+					</content>
+				</node>
+				<node count="0">
+					<content name="pr::PD_ODR[1]" type="varBit">
+						<definition bit_index="1" id="1" size="8" var="pr::PD_ODR"></definition>
+						<properties alpha="255" b="0" formatType="10" g="255" height="25" r="0" showMode="0"></properties>
+					</content>
+				</node>
+				<node count="0">
+					<content name="pr::PD_ODR[2]" type="varBit">
+						<definition bit_index="2" id="1" size="8" var="pr::PD_ODR"></definition>
+						<properties alpha="255" b="0" formatType="10" g="255" height="25" r="0" showMode="0"></properties>
+					</content>
+				</node>
+				<node count="0">
+					<content name="pr::PD_ODR[3]" type="varBit">
+						<definition bit_index="3" id="1" size="8" var="pr::PD_ODR"></definition>
+						<properties alpha="255" b="0" formatType="10" g="255" height="25" r="0" showMode="0"></properties>
+					</content>
+				</node>
+				<node count="0">
+					<content name="pr::PD_ODR[4]" type="varBit">
+						<definition bit_index="4" id="1" size="8" var="pr::PD_ODR"></definition>
+						<properties alpha="255" b="0" formatType="10" g="255" height="25" r="0" showMode="0"></properties>
+					</content>
+				</node>
+				<node count="0">
+					<content name="pr::PD_ODR[5]" type="varBit">
+						<definition bit_index="5" id="1" size="8" var="pr::PD_ODR"></definition>
+						<properties alpha="255" b="0" formatType="10" g="255" height="25" r="0" showMode="0"></properties>
+					</content>
+				</node>
+				<node count="0">
+					<content name="pr::PD_ODR[6]" type="varBit">
+						<definition bit_index="6" id="1" size="8" var="pr::PD_ODR"></definition>
+						<properties alpha="255" b="0" formatType="10" g="255" height="25" r="0" showMode="0"></properties>
+					</content>
+				</node>
+				<node count="0">
+					<content name="pr::PD_ODR[7]" type="varBit">
+						<definition bit_index="7" id="1" size="8" var="pr::PD_ODR"></definition>
+						<properties alpha="255" b="0" formatType="10" g="255" height="25" r="0" showMode="0"></properties>
+					</content>
+				</node>
+			</node>
+			<node count="8">
+				<content name="pr::PC_ODR" type="var">
+					<definition id="2" size="8" type="1" var="pr::PC_ODR"></definition>
+					<properties alpha="255" b="0" formatType="10" g="255" height="25" r="0" showMode="1"></properties>
+				</content>
+				<node count="0">
+					<content name="pr::PC_ODR[0]" type="varBit">
+						<definition bit_index="0" id="2" size="8" var="pr::PC_ODR"></definition>
+						<properties alpha="255" b="0" formatType="10" g="255" height="25" r="0" showMode="0"></properties>
+					</content>
+				</node>
+				<node count="0">
+					<content name="pr::PC_ODR[1]" type="varBit">
+						<definition bit_index="1" id="2" size="8" var="pr::PC_ODR"></definition>
+						<properties alpha="255" b="0" formatType="10" g="255" height="25" r="0" showMode="0"></properties>
+					</content>
+				</node>
+				<node count="0">
+					<content name="pr::PC_ODR[2]" type="varBit">
+						<definition bit_index="2" id="2" size="8" var="pr::PC_ODR"></definition>
+						<properties alpha="255" b="0" formatType="10" g="255" height="25" r="0" showMode="0"></properties>
+					</content>
+				</node>
+				<node count="0">
+					<content name="pr::PC_ODR[3]" type="varBit">
+						<definition bit_index="3" id="2" size="8" var="pr::PC_ODR"></definition>
+						<properties alpha="255" b="0" formatType="10" g="255" height="25" r="0" showMode="0"></properties>
+					</content>
+				</node>
+				<node count="0">
+					<content name="pr::PC_ODR[4]" type="varBit">
+						<definition bit_index="4" id="2" size="8" var="pr::PC_ODR"></definition>
+						<properties alpha="255" b="0" formatType="10" g="255" height="25" r="0" showMode="0"></properties>
+					</content>
+				</node>
+				<node count="0">
+					<content name="pr::PC_ODR[5]" type="varBit">
+						<definition bit_index="5" id="2" size="8" var="pr::PC_ODR"></definition>
+						<properties alpha="255" b="0" formatType="10" g="255" height="25" r="0" showMode="0"></properties>
+					</content>
+				</node>
+				<node count="0">
+					<content name="pr::PC_ODR[6]" type="varBit">
+						<definition bit_index="6" id="2" size="8" var="pr::PC_ODR"></definition>
+						<properties alpha="255" b="0" formatType="10" g="255" height="25" r="0" showMode="0"></properties>
+					</content>
+				</node>
+				<node count="0">
+					<content name="pr::PC_ODR[7]" type="varBit">
+						<definition bit_index="7" id="2" size="8" var="pr::PC_ODR"></definition>
+						<properties alpha="255" b="0" formatType="10" g="255" height="25" r="0" showMode="0"></properties>
+					</content>
+				</node>
+			</node>
+			<node count="8">
+				<content name="pr::PA_ODR" type="var">
+					<definition id="3" size="8" type="1" var="pr::PA_ODR"></definition>
+					<properties alpha="255" b="0" formatType="10" g="255" height="25" r="0" showMode="1"></properties>
+				</content>
+				<node count="0">
+					<content name="pr::PA_ODR[0]" type="varBit">
+						<definition bit_index="0" id="3" size="8" var="pr::PA_ODR"></definition>
+						<properties alpha="255" b="0" formatType="10" g="255" height="25" r="0" showMode="0"></properties>
+					</content>
+				</node>
+				<node count="0">
+					<content name="pr::PA_ODR[1]" type="varBit">
+						<definition bit_index="1" id="3" size="8" var="pr::PA_ODR"></definition>
+						<properties alpha="255" b="0" formatType="10" g="255" height="25" r="0" showMode="0"></properties>
+					</content>
+				</node>
+				<node count="0">
+					<content name="pr::PA_ODR[2]" type="varBit">
+						<definition bit_index="2" id="3" size="8" var="pr::PA_ODR"></definition>
+						<properties alpha="255" b="0" formatType="10" g="255" height="25" r="0" showMode="0"></properties>
+					</content>
+				</node>
+				<node count="0">
+					<content name="pr::PA_ODR[3]" type="varBit">
+						<definition bit_index="3" id="3" size="8" var="pr::PA_ODR"></definition>
+						<properties alpha="255" b="0" formatType="10" g="255" height="25" r="0" showMode="0"></properties>
+					</content>
+				</node>
+				<node count="0">
+					<content name="pr::PA_ODR[4]" type="varBit">
+						<definition bit_index="4" id="3" size="8" var="pr::PA_ODR"></definition>
+						<properties alpha="255" b="0" formatType="10" g="255" height="25" r="0" showMode="0"></properties>
+					</content>
+				</node>
+				<node count="0">
+					<content name="pr::PA_ODR[5]" type="varBit">
+						<definition bit_index="5" id="3" size="8" var="pr::PA_ODR"></definition>
+						<properties alpha="255" b="0" formatType="10" g="255" height="25" r="0" showMode="0"></properties>
+					</content>
+				</node>
+				<node count="0">
+					<content name="pr::PA_ODR[6]" type="varBit">
+						<definition bit_index="6" id="3" size="8" var="pr::PA_ODR"></definition>
+						<properties alpha="255" b="0" formatType="10" g="255" height="25" r="0" showMode="0"></properties>
+					</content>
+				</node>
+				<node count="0">
+					<content name="pr::PA_ODR[7]" type="varBit">
+						<definition bit_index="7" id="3" size="8" var="pr::PA_ODR"></definition>
+						<properties alpha="255" b="0" formatType="10" g="255" height="25" r="0" showMode="0"></properties>
+					</content>
+				</node>
+			</node>
+		</group>
+	</groups>
+	<markers count="1">
+		<marker alpha="255" b="255" g="0" name="MainMarker" r="0" time="251625"></marker>
+	</markers>
+</model>
+<workspace>
+	<active_group>Signals</active_group>
+	<time>
+		<time_min>0</time_min>
+		<time_max>251625</time_max>
+		<time_pos>250538</time_pos>
+		<time_range>1087</time_range>
+	</time>
+	<window bottom="701" left="-4" right="1368" top="-4">
+		<header_width>250</header_width>
+	</window>
+</workspace>
+</archive>
